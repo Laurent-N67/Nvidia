@@ -5,10 +5,11 @@
 body{
     font-size: 16px;
     font-family: Arial, sans-serif;
-    margin:auto;
-    max-width: 1024px;
 }
-
+.container{
+    width:1024px;
+    margin:auto;
+}
 #home{
     margin-bottom: 10px;
 }
